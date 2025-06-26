@@ -1,4 +1,4 @@
-# SOC_Kung-Fu-Master
+# SOC'25 : Building an RL Agent : Kungfu Master
 
 Progress made so far:
 - Dived deeper into scientific computing libraries such as: Pandas, NumPy and Matplotlib in Python
